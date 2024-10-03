@@ -11,7 +11,7 @@
 - 🛠️ Backend: `Java`, `C#`
 - 💾 Databases: `MSSQL`
 - ⚙️ Tools: `Git`
-- 
+ 
  ✔️ Feel free to check out my repositories or reach out to collaborate on exciting projects!
 
 <h3 align="left">Connect with me:</h3>

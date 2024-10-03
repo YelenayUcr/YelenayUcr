@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Hello, I'm Yelenay Uçar! 👋
 
-<!--
-**YelenayUcr/YelenayUcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨I'm a full stack developer passionate about web technologies and building scalable applications. I recently graduated from **Adnan Menderes University** with a degree in **Management Information Systems**, and I have been working on honing my skills in full stack development.✨
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
+- 💬 Ask me about: Java, HTML-CSS, Web Development, C#.
+- 📫 How to reach me: [yelenayucr@gmail.com]
+- ⚡ I'm constantly learning new things and love to work on challenging problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Tech Stack:
+- 🎨 Frontend: `HTML`, `CSS`, `JavaScript`
+- 🛠️ Backend: `Java`, `C#`
+- 💾 Databases: `MSSQL`
+- ⚙️ Tools: `Git`
+  
+ ✔️ Feel free to check out my repositories or reach out to collaborate on exciting projects! 

@@ -1,4 +1,4 @@
-                       ![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM3cHExZm5ncWUxcHhuMXJiaTR2eHR1bnlkemMzbjNxaTJjcjJteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.webp)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM3cHExZm5ncWUxcHhuMXJiaTR2eHR1bnlkemMzbjNxaTJjcjJteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.webp)
 <h1 align="center">🚀 Hi, I'm Yelenay Uçar 👋</h1>
 <h3 align="center">✨I'm a full stack developer passionate about web technologies and building scalable applications. I recently graduated from Adnan Menderes University with a degree in Management Information Systems, and I have been working on honing my skills in full stack development.✨</h3>
 

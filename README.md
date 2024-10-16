@@ -1,7 +1,9 @@
 <h1 align="center">🚀 Hi, I'm Yelenay Uçar 👋</h1>
 <h3 align="center">✨I'm a full stack developer passionate about web technologies and building scalable applications. I recently graduated from Adnan Menderes University with a degree in Management Information Systems, and I have been working on honing my skills in full stack development.✨</h3>
 
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjcydGZpaG1wazZyYTBieGlzd3RrMnNmbHA0ZnE5aG1rZmRvZ2VyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdK6dYLje0cPDSE/giphy.webp)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjcydGZpaG1wazZyYTBieGlzd3RrMnNmbHAZnE5aG1rZmRvZ2VyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdK6dYLjecPDSE/giphy.webp" alt="MasterHead">
+</div>
 
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: Java, HTML-CSS, Web Development, C#.

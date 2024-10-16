@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Hi, I'm Yelenay Uçar 👋</h1>
 <h3 align="center">✨I'm a full stack developer passionate about web technologies and building scalable applications. I recently graduated from Adnan Menderes University with a degree in Management Information Systems, and I have been working on honing my skills in full stack development.✨</h3>
 
-<br />![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM3cHExZm5ncWUxcHhuMXJiaTR2eHR1bnlkemMzbjNxaTJjcjJteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.webp) 
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms2d25rZXdna2s5bXE2MzZxa3NvMTR3cnhiNmh2azh1MXVuOGU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcyaY9IbiX1EK3u/giphy.webp)
+<br />![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms2d25rZXdna2s5bXE2MzZxa3NvMTR3cnhiNmh2azh1MXVuOGU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcyaY9IbiX1EK3u/giphy.webp)
+
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: Java, HTML-CSS, Web Development, C#.
 - 📫 How to reach me: [yelenayucr@gmail.com]

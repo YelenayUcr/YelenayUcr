@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Yelenay Uçar 👋</h1>
 <h3 align="center">✨I'm a full stack developer passionate about web technologies and building scalable applications. I recently graduated from Adnan Menderes University with a degree in Management Information Systems, and I have been working on honing my skills in full stack development.✨</h3>
 
-<br />![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM3cHExZm5ncWUxcHhuMXJiaTR2eHR1bnlkemMzbjNxaTJjcjJteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.webp) 
+<br />![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM3cHExZm5ncWUxcHhuMXJiaTR2eHR1bnlkemMzbjNxaTJjcjJteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.webp) <div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/xUA7biTaFmRc7ARuX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adult-swim-games-pc-ps4-xUA7biTaFmRc7ARuX6">via GIPHY</a></p>
 
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: Java, HTML-CSS, Web Development, C#.

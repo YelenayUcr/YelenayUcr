@@ -17,7 +17,7 @@
 - 🎨 Frontend: `HTML`, `CSS`, `JavaScript`
 - 🛠️ Backend: `Java`, `C#`
 - 💾 Databases: `MSSQL`
-- ⚙️ Tools: `Git`
+- ⚙️ Tools: `Git` `GitHub`
  
  ✔️ Feel free to check out my repositories or reach out to collaborate on exciting projects!
 

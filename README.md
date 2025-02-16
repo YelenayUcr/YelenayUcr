@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUwZGx3N3I5d2ZpMXF5Mm1uMmwxYW5yaTljenZ5d3RxbGM2aDJ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRwZTR0NHk0YjYyd2w1MDZkYnY3N3oyNHM2bGJpMnRyYW11czNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaWXLHtIottTqQ7XqB/giphy.gif)
 
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: Java, HTML-CSS, Web Development, C#.

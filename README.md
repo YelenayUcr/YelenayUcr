@@ -7,7 +7,6 @@
 </p>
 
 
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMxbXE3OXN4bW03NWp4YTlpNHkyZGYzNjF3M2F1eW11dGRwZjlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0WdWDLyQXQyKTUsot/giphy.gif)
 <p><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMxbXE3OXN4bW03NWp4YTlpNHkyZGYzNjF3M2F1eW11dGRwZjlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0WdWDLyQXQyKTUsot/giphy.gif" alt="yelenayucr" /></p>
   
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.

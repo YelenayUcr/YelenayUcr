@@ -14,13 +14,7 @@
 - 📫 How to reach me: [yelenayucr@gmail.com]
 - ⚡ I'm constantly learning new things and love to work on challenging problems.
 
-
-
-
-
-
-
-# My Tech Stack:
+<h1>My Tech Stack: </h1> 
 - 🎨 Frontend: `HTML`, `CSS`, `JavaScript`
 - 🛠️ Backend: `Java`, `C#`
 - 💾 Databases: `MSSQL`

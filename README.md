@@ -7,12 +7,18 @@
 </p>
 
 
-<p><img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMxbXE3OXN4bW03NWp4YTlpNHkyZGYzNjF3M2F1eW11dGRwZjlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0WdWDLyQXQyKTUsot/giphy.gif" alt="yelenayucr" /></p>
+<p><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMxbXE3OXN4bW03NWp4YTlpNHkyZGYzNjF3M2F1eW11dGRwZjlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0WdWDLyQXQyKTUsot/giphy.gif" alt="yelenayucr" /></p>
   
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: Java, HTML-CSS, Web Development, C#.
 - 📫 How to reach me: [yelenayucr@gmail.com]
 - ⚡ I'm constantly learning new things and love to work on challenging problems.
+
+
+
+
+
+
 
 # My Tech Stack:
 - 🎨 Frontend: `HTML`, `CSS`, `JavaScript`

@@ -15,7 +15,7 @@
 - ⚡ I'm constantly learning new things and love to work on challenging problems.
 
 # My Tech Stack:
-- 🎨 Frontend: `HTML`, `CSS`, `JavaScript`
+- 🎨 Frontend: `HTML`, `CSS`, `JavaScript`, `React`
 - 🛠️ Backend: `Java`, `C#`
 - 💾 Databases: `MSSQL`
 - ⚙️ Tools: `Git` `GitHub`

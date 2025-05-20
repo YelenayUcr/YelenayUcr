@@ -11,7 +11,7 @@
   
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: JavaScript, React, Java, HTML-CSS, Web Development, C#.
-- 📫 How to reach me: [yelenayucr@gmail.com]
+- 📫 How to reach me: yelenayucr@gmail.com
 - ⚡ I'm constantly learning new things and love to work on challenging problems.
 
 # My Tech Stack:

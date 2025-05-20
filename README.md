@@ -15,10 +15,10 @@
 - ⚡ I'm constantly learning new things and love to work on challenging problems.
 
 # My Tech Stack:
-- 🎨 Frontend: `HTML`, `CSS`, `JavaScript`, `React`
-- 🛠️ Backend: `Java`, `C#`
-- 💾 Databases: `MSSQL`
-- ⚙️ Tools: `Git` `GitHub`
+- 🎨 Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`, `TypeScript`
+- 🛠️ Backend: `Java`, `C#`, `Node.js`
+- 💾 Databases: `MSSQL`, `MongoDB`
+- ⚙️ Tools: `Git`, `GitHub`
  
  ✔️ Feel free to check out my repositories or reach out to collaborate on exciting projects!
 
